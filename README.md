@@ -1,5 +1,5 @@
 # BrainGauge
-AI-Based Cognitive Load &amp; Burnout Detection System for Students.....
+AI-Based Cognitive Load &amp; Burnout Detection System for Students
 ---
 
 ## 👨‍💻 Author
